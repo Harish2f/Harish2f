@@ -32,7 +32,6 @@
 
 ## 📈 GitHub-Statistiken  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish2f&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish2f&layout=compact&theme=dark)
 
 ---
