@@ -10,7 +10,7 @@
 ## 🛠️ Fähigkeiten & Technologien  
 
 - **Programmiersprachen:** Python, R, SQL  
-- **Daten & ML:** Machine Learning, Zeitreihenanalyse, Predictive Modeling  
+- **Daten & ML:** Machine Learning, Zeitreihenanalyse, Predictive Modeling, Process Mining  
 - **Visualisierung:** Tableau, Matplotlib, Power BI  
 - **Cloud & MLOps:** Azure ML, Databricks, MLflow  
 - **Weitere Themen:** Datenautomatisierung, Datenpipelines, Git  
@@ -21,10 +21,10 @@
 
 | Projekt | Beschreibung | Technologien |
 |---------|--------------|--------------|
-| [**EDV_Online**](https://github.com/Harish2f/EDV_Online) | Zeitreihenanalyse von Lokomotiv-Motordaten zur Optimierung von Predictive Maintenance. | Python, Pandas |
 | [**Financial-AI-Agent**](https://github.com/Harish2f/Financial-AI-Agent) | Ein multimodaler Agent, der Analysten-Empfehlungen und Finanzdaten automatisiert abruft. | Python, LLMs |
-| [**StoreSalesPrediction**](https://github.com/Harish2f/StoreSalesPrediction) | Prognose von Einzelhandelsumsätzen auf Basis historischer Daten. | Python, Scikit-learn |
+| [**StoreSalesPrediction**](https://github.com/Harish2f/StoreSalesPrediction) | Prognose von Einzelhandelsumsätzen auf Basis historischer Daten. | Python, Scikit-learn, Flask |
 | [**AzureMLops**](https://github.com/Harish2f/AzureMLops) | Automatisierung von ML-Pipelines, Deployment und Monitoring mit Azure ML. | Azure, MLOps |
+| [**EDV_Online**](https://github.com/Harish2f/EDV_Online) | Zeitreihenanalyse von Lokomotiv-Motordaten zur Optimierung von Predictive Maintenance. | Python, Pandas, Javascript |
 | [**WalmartRetail_Tableau**](https://github.com/Harish2f/WalmartRetail_Tableau) | Interaktive Dashboards zur Analyse von Walmart-Verkaufsdaten. | Tableau |
 | [**AtliQ_Hardware_Analysis-Tableau**](https://github.com/Harish2f/AtliQ_Hardware_Analysis-Tableau) | Datenanalyse & Visualisierung von Hardware-Markttrends. | Tableau |
 
