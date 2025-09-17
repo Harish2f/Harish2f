@@ -1,7 +1,5 @@
 # Hallo 👋, ich bin Harish Kumar Ramesh 
 
-**"So called Techiee!"**  
-
 📍 Berlin, Deutschland  
 🔗 [LinkedIn](https://www.linkedin.com/in/harish2f)  
 
