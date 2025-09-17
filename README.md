@@ -1,4 +1,4 @@
-# Hallo 👋, ich bin Harish Kumar  
+# Hallo 👋, ich bin Harish Kumar Ramesh 
 
 **"So called Techiee!"**  
 
@@ -40,6 +40,7 @@
 
 - 💼 LinkedIn: [Harish2f](https://www.linkedin.com/in/harish2f)  
 - ✉️ E-Mail: harish2f@gmail.com
+- Tableau: [Portfolio](https://public.tableau.com/app/profile/harish.kumar7404/vizzes)
 
 ---
 
