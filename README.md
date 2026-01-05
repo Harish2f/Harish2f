@@ -8,7 +8,7 @@
 ## 🛠️ Fähigkeiten & Technologien  
 
 - **Programmiersprachen:** Python, R, SQL  
-- **Daten & ML:** Machine Learning, Zeitreihenanalyse, Predictive Modeling, Process Mining  
+- **Daten & ML:** Machine Learning, Zeitreihenanalyse, Predictive Modeling, Process Mining, LLM
 - **Visualisierung:** Tableau, Matplotlib, Power BI  
 - **Cloud & MLOps:** Azure ML, Databricks, MLflow  
 - **Weitere Themen:** Datenautomatisierung, Datenpipelines, Git  
