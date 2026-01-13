@@ -28,12 +28,6 @@
 
 ---
 
-## 📈 GitHub-Statistiken  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish2f&layout=compact&theme=dark)
-
----
-
 ## 📫 Kontakt  
 
 - 💼 LinkedIn: [Harish2f](https://www.linkedin.com/in/harish2f)  
