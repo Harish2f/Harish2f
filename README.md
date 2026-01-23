@@ -19,12 +19,13 @@
 
 | Projekt | Beschreibung | Technologien |
 |---------|--------------|--------------|
+| [**Financial-Decision-System**](https://github.com/Harish2f/financial-decision-system) | Finanzielles Entscheidungs- und Risikobewertungssystem zur Identifikation zahlungsriskanter Kunden auf Basis von Transaktions- und Rechnungsdaten. | Python, SQL, XGBoost, PostgreSQL, Airflow, Pytest |
 | [**Financial-AI-Agent**](https://github.com/Harish2f/Financial-AI-Agent) | Ein multimodaler Agent, der Analysten-Empfehlungen und Finanzdaten automatisiert abruft. | Python, LLMs |
 | [**StoreSalesPrediction**](https://github.com/Harish2f/StoreSalesPrediction) | Prognose von Einzelhandelsumsätzen auf Basis historischer Daten. | Python, Scikit-learn, Flask |
 | [**AzureMLops**](https://github.com/Harish2f/AzureMLops) | Automatisierung von ML-Pipelines, Deployment und Monitoring mit Azure ML. | Azure, MLOps |
 | [**EDV_Online**](https://github.com/Harish2f/EDV_Online) | Zeitreihenanalyse von Lokomotiv-Motordaten zur Optimierung von Predictive Maintenance. | Python, Pandas, Javascript |
 | [**WalmartRetail_Tableau**](https://github.com/Harish2f/WalmartRetail_Tableau) | Interaktive Dashboards zur Analyse von Walmart-Verkaufsdaten. | Tableau |
-| [**AtliQ_Hardware_Analysis-Tableau**](https://github.com/Harish2f/AtliQ_Hardware_Analysis-Tableau) | Datenanalyse & Visualisierung von Hardware-Markttrends. | Tableau |
+
 
 ---
 
