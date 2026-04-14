@@ -19,6 +19,7 @@
 
 | Projekt | Beschreibung | Technologien |
 |---------|--------------|--------------|
+| [**German-Doc-AI**](https://github.com/Harish2f/german-doc-ai) | Beantwortet Fragen zu BaFin-Publikationen, dem EU-AI-Act und der DSGVO mittels Hybrid-Search und agentischer Reasoning-Schicht; DSGVO-konform entwickelt und auf Azure bereitgestellt. | Python, Azure, LangGraph, PostgreSQL, FastAPI, Pytest |
 | [**Financial-Decision-System**](https://github.com/Harish2f/financial-decision-system) | Finanzielles Entscheidungs- und Risikobewertungssystem zur Identifikation zahlungsriskanter Kunden auf Basis von Transaktions- und Rechnungsdaten. | Python, SQL, XGBoost, PostgreSQL, Airflow, Pytest |
 | [**Financial-AI-Agent**](https://github.com/Harish2f/Financial-AI-Agent) | Ein multimodaler Agent, der Analysten-Empfehlungen und Finanzdaten automatisiert abruft. | Python, LLMs |
 | [**StoreSalesPrediction**](https://github.com/Harish2f/StoreSalesPrediction) | Prognose von Einzelhandelsumsätzen auf Basis historischer Daten. | Python, Scikit-learn, Flask |
